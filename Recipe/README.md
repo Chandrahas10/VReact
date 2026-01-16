@@ -1,31 +1,31 @@
-# 🍳 RecipeBook – React Recipe Application
+# 🍳 TastyPages – React Recipe Application
 
-RecipeBook is a modern and responsive recipe web application built with **React**, **Tailwind CSS**, and **TheMealDB API**.  
-It allows users to explore random recipes, search for meals, and view detailed recipe information including ingredients, instructions, and video links.
+TastyPages is a modern and responsive recipe web application built using **React**, **Tailwind CSS**, **Material UI**, and **TheMealDB API**.  
+It allows users to explore random recipes, search for meals, and view detailed recipe information including ingredients, cooking instructions, and video links.
+
+🔗 **Live Demo:** https://mealrecipepp.netlify.app/
 
 ---
 
 ## ✨ Features
-
-- 🔍 Search recipes by name
-- 🎲 Get random recipes
-- 📄 Detailed recipe view (ingredients, instructions, origin)
-- ▶️ YouTube & source links for recipes
-- ⚡ Fast and responsive UI
-- 🎨 Styled using Tailwind CSS
-- 🧭 Client-side routing with React Router
+- 🔍 Search recipes by name  
+- 🎲 Discover random recipes  
+- 📄 Detailed recipe view (ingredients, instructions, origin)  
+- ▶️ YouTube & external source links  
+- ⚡ Fast and responsive UI  
+- 🎨 Styled using Tailwind CSS & Material UI  
+- 🧭 Client-side routing with React Router  
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Frontend:** React (Vite)
-- **Styling:** Tailwind CSS
-- **Routing:** React Router DOM
-- **API:** [TheMealDB](https://www.themealdb.com/)
-- **Version Control:** Git & GitHub
+- **Frontend:** React (Vite)  
+- **Styling:** Tailwind CSS  
+- **UI Components:** Material UI (MUI)  
+- **Routing:** React Router DOM  
+- **API:** TheMealDB API  
+- **Version Control:** Git & GitHub  
 
 ---
 
 ## 📂 Project Structure
-
