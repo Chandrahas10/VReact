@@ -1,18 +1,31 @@
-# React + Vite
+# 🍳 RecipeBook – React Recipe Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RecipeBook is a modern and responsive recipe web application built with **React**, **Tailwind CSS**, and **TheMealDB API**.  
+It allows users to explore random recipes, search for meals, and view detailed recipe information including ingredients, instructions, and video links.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🔍 Search recipes by name
+- 🎲 Get random recipes
+- 📄 Detailed recipe view (ingredients, instructions, origin)
+- ▶️ YouTube & source links for recipes
+- ⚡ Fast and responsive UI
+- 🎨 Styled using Tailwind CSS
+- 🧭 Client-side routing with React Router
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM
+- **API:** [TheMealDB](https://www.themealdb.com/)
+- **Version Control:** Git & GitHub
 
+---
+
+## 📂 Project Structure
 
