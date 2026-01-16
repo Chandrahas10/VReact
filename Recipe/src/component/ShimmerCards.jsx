@@ -9,12 +9,12 @@ const ShimmerCards = () => {
                className="bg-[#cecdcd] shadow rounded-lg overflow-hidden "
           >
             {/* Image Placeholder */}
-            <div   className="w-full h-48 object-cover"></div>
+            <div   className="w-full h-48 object-cover shimmer"></div>
 
             {/* Text Placeholder */}
             <div className="p-4 space-y-3">
-              <div className="h-4 bg-[#ffffff] rounded w-3/4"></div>
-              <div className="h-3 bg-[#ffffff] rounded w-1/2"></div>
+              <div className="h-4 bg-[#ffffff] rounded w-3/4 shimmer"></div>
+              <div className="h-3 bg-[#ffffff] rounded w-1/2 shimmer"></div>
             </div>
           </div>
         ))}
